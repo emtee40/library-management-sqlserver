@@ -1,4 +1,5 @@
 # libraryManagementSystem
+Original Source: https://github.com/deadlyjack/libraryManagementSystem/
 
 -> requirment
   1. mysql running on your pc to run this programm.
